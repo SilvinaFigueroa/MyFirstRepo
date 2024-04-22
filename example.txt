@@ -1,5 +1,6 @@
 Checking the differences on my files....
-
 New line!! 
-
 I have a second branch now.
+
+
+Remote and Local with differences, using pull command. 
